@@ -9,3 +9,15 @@
 **Link(s) to work**
 1. [React](https://reactjs.org/)
 2. [Title Case a Sentence](https://codepen.io)
+
+---
+
+### Day 2: April 16, Saturday
+
+**Today's Progress**: Learn how to handle events.
+
+**Thoughts** One "call" away.
+
+**Link(s) to work**
+1. [React - Handling events](https://reactjs.org/docs/handling-events.html)
+2. [Title Case a Sentence](https://codepen.io)
