@@ -21,3 +21,14 @@
 **Link(s) to work**
 1. [React - Handling events](https://reactjs.org/docs/handling-events.html)
 2. [Title Case a Sentence](https://codepen.io)
+
+---
+
+### Day 3: April 18, Monday
+
+**Today's Progress**: Learn how to hooks.
+
+**Thoughts** 11 o'clock, hook!.
+
+**Link(s) to work**
+1. [React - Hooks](https://reactjs.org/docs/hooks-intro.html)
