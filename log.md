@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 5: April 20, Wednesday
+
+**Today's Progress**: Solved several competitive programming problems Part 2.
+
+**Thoughts** Ohh Data structure and algorithm again 🎶.
+
+**Link(s) to work**
+1. [Codeforces](https://codeforces.com/)
+
+---
+
 ### Day 4: April 19, Tuesday
 
 **Today's Progress**: Solved several competitive programming problems.
