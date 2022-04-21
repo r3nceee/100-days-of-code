@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 6: April 21, Thursday
+
+**Today's Progress**: Smashing the keyboard and debugged a chain of deployment issues..
+
+**Thoughts** "Please work".
+
+**Link(s) to work**
+1. [Stack Overflow](https://stackoverflow.com)
+
+---
+
 ### Day 5: April 20, Wednesday
 
 **Today's Progress**: Solved several competitive programming problems Part 2.
