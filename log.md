@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 7: April 22, Friday
+
+**Today's Progress**: Exploring some NLP and Tone modulation.
+
+**Thoughts** Ohhh Machine Learning?
+
+**Link(s) to work**
+1. [Youtube](https://youtube.com)
+1. [Google Colab](https://colab.research.google.com/)
+
+---
+
 ### Day 6: April 21, Thursday
 
 **Today's Progress**: Smashing the keyboard and debugged a chain of deployment issues..
