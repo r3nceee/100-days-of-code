@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 8: April 23, Saturday
+
+**Today's Progress**: Eating some cookie using flask.
+
+**Thoughts** Ohhh flasskkkk.
+
+**Link(s) to work**
+1. [Flask](https://flask.palletsprojects.com/)
+
+---
+
 ### Day 7: April 22, Friday
 
 **Today's Progress**: Exploring some NLP and Tone modulation.
