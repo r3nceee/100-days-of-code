@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 9: April 24, Sunday
+
+**Today's Progress**: Solved competitive programming problems.
+
+**Thoughts** Ohh competitive huhh.
+
+**Link(s) to work**
+1. [Codeforces](https://codeforces.com/)
+
+---
+
 ### Day 8: April 23, Saturday
 
 **Today's Progress**: Eating some cookie using flask.
