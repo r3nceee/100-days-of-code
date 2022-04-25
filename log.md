@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 10: April 25, Monday
+
+**Today's Progress**: Another flask day.
+
+**Thoughts** Ohh flaskkkk.
+
+**Link(s) to work**
+1. [Flask](https://flask.palletsprojects.com/)
+
+---
+
 ### Day 9: April 24, Sunday
 
 **Today's Progress**: Solved competitive programming problems.
