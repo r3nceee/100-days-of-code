@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 11: April 26, Tuesday
+
+**Today's Progress**: Learned Fortran.
+
+**Thoughts** This is awesome.
+
+**Link(s) to work**
+1. [Tutorialspoint](https://tutorialspoint.com/)
+
+---
+
 ### Day 10: April 25, Monday
 
 **Today's Progress**: Another flask day.
