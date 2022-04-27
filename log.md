@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 12: April 27, Wednesda
+
+**Today's Progress**: Some code analysis.
+
+**Thoughts** Hmmm.
+
+---
+
 ### Day 11: April 26, Tuesday
 
 **Today's Progress**: Learned Fortran.
