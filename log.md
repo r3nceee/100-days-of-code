@@ -1,6 +1,14 @@
 # 100 Days Of Code - Log
 
-### Day 12: April 27, Wednesda
+### Day 13: April 28, Thursday
+
+**Today's Progress**: Python for token code analysis.
+
+**Thoughts** Little bit of automation baby!.
+
+---
+
+### Day 12: April 27, Wednesday
 
 **Today's Progress**: Some code analysis.
 
