@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 14: April 29, Friday
+
+**Today's Progress**: Learning and solving CTF games.
+
+**Thoughts** h4ckerman.
+
+---
+
 ### Day 13: April 28, Thursday
 
 **Today's Progress**: Python for token code analysis.
