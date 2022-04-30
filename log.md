@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 15: April 30, Saturday
+
+**Today's Progress**: Last day of the month learning new stuff, NuxtJS, and shell scripting..
+
+**Thoughts** Last month babyyy.
+
+---
+
 ### Day 14: April 29, Friday
 
 **Today's Progress**: Learning and solving CTF games.
