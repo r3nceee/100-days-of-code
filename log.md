@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 17: May 02, Monday
+
+**Today's Progress**: Some PHP code refractoring.
+
+**Thoughts** Ohh the horror.
+
+---
+
 ### Day 16: May 01, Sunday
 
 **Today's Progress**: 1st day of the month, solved several Competitive programming problems.
