@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 18: May 03, Tuesday
+
+**Today's Progress**: Some PHP code refractoring #2.
+
+**Thoughts** Ohh the horror #2.
+
+---
+
 ### Day 17: May 02, Monday
 
 **Today's Progress**: Some PHP code refractoring.
