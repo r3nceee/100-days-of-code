@@ -1,5 +1,16 @@
 # 100 Days Of Code - Log
 
+### Day 19: May 04, Wednesday
+
+**Today's Progress**: I just want to relax, so I just solved CP problems.
+
+**Thoughts** Hello world.
+
+**Link(s) to work**
+1. [Codeforces](https://codeforces.com/)
+
+---
+
 ### Day 18: May 03, Tuesday
 
 **Today's Progress**: Some PHP code refractoring #2.
