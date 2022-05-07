@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 20: May 07, Thursday
+
+**Today's Progress**: Started Learning Svelte.
+
+**Thoughts** Time to learn new stuff again.
+
+**Link(s) to work**
+1. [Traversy Media](https://www.youtube.com/watch?v=3TVy6GdtNuQ)
+2. [Svelte](https://svelte.dev/)
+
+---
+
 ### Day 19: May 04, Wednesday
 
 **Today's Progress**: I just want to relax, so I just solved CP problems.
